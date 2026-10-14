@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Electoral Municipal - Voto BUE y Escrutinio",
+  "description": "Sistema de voto electrónico y gestión electoral municipal para intendente con interfaces especializadas por rol (Votantes, Candidatos, Autoridades de Mesa, Tribunal Electoral), cumplimiento de los 10 principios heurísticos de Nielsen y normativa electoral argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
