@@ -427,7 +427,7 @@ export const VoterBooth: React.FC<VoterBoothProps> = ({
               }`}
             >
               <Vote className={fontSize === 'xlarge' ? 'w-8 h-8' : fontSize === 'large' ? 'w-6 h-6' : 'w-5 h-5'} />
-              <span>Simular Inserción de Boleta en la Ranura</span>
+              <span>Inserte la Boleta en la Ranura</span>
             </button>
           </div>
         )}
@@ -1108,11 +1108,6 @@ export const VoterBooth: React.FC<VoterBoothProps> = ({
                 <p>
                   El sistema no guarda registro de quién emite cada voto. Al retirar la boleta impresa, el chip está oculto y nadie puede ver lo que eligió hasta el escrutinio oficial.
                 </p>
-              </div>
-
-              <div className="bg-sky-50 p-3 rounded-lg border border-sky-100 text-sky-900">
-                <span className="font-semibold block mb-0.5">Normativa aplicable:</span>
-                Ley 19.945 Código Electoral Nacional y Ley 26.653 de Accesibilidad Web.
               </div>
             </div>
 
